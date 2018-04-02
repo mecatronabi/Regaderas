@@ -43,7 +43,7 @@ function getData(){
         `
         setTimeout(function () { 
             location.reload(true); 
-          }, 300000);
+          }, 120000);
           
  
     response.innerHTML = characterInfo;
